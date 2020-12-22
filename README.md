@@ -1,2 +1,2 @@
 # onset-BPEvents
-A package to call events from blueprints
+## [Wiki](https://github.com/vugi99/onset-BPEvents/wiki)
