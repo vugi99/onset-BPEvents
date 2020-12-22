@@ -1,0 +1,12 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.4.0",
+        "client_scripts": [
+                "client/BPEvents.lua"
+        ],
+        "files": [
+                "client/LuaEvents.pak"
+        ]
+
+}
